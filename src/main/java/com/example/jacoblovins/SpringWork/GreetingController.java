@@ -8,6 +8,6 @@ public class GreetingController {
 
 	@RequestMapping("/greeting")
 	public String getGreeting() {
-		return "Hello from SpringWork!";  
+		return "Hello from SpringWork! Checking the gitignore file.";  
 	}
 }
